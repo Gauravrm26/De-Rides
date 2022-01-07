@@ -174,13 +174,4 @@ float calc_cost(float distance,int days){
    float cost = ((distance - 72)*extra_fuel);
    return(cost);
 }
-////////////day 1//////////
-//vehicle price adjust -- done
-//adjust welcome message --> add [return/rentcar, login/create_acc] --> rejected
-//take input as distance --> done
-//password change -->  done
-//payment, post or pre option --> done
 
-
-//////////////////day 2/////////////////
-//wait for review
