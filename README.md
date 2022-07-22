@@ -1,5 +1,4 @@
 # De-Rides
-Using C++
 
 ![1](https://user-images.githubusercontent.com/85059991/180472246-30cb9bca-cd9c-4b01-a93c-041814edc1e5.jpeg)
 ![2](https://user-images.githubusercontent.com/85059991/180472650-cab9bf1d-99f3-487e-a70e-95867ab98e09.jpeg)
